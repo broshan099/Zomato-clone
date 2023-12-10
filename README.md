@@ -17,7 +17,7 @@ This project is a clone of the popular Zomato website, designed to showcase HTML
 
 ## Demo
 
-You can see a live demo of the project [here](#https://broshan099.000webhostapp.com/).
+You can see a live demo of the project [here](https://broshan099.000webhostapp.com/).
 
 ![Zomato Clone Screenshot](ss.png)
 
