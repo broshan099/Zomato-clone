@@ -41,10 +41,11 @@ cd zomato-clone
 
 1. Open the index.html file in your preferred web browser.
 
-Usage
+```
+## Usage
 Simply open the index.html file in a web browser to view the Zomato clone. Navigate through the pages to explore the layout and design.
 
-Contributing
+## Contributing
 If you'd like to contribute to the project, please follow these steps:
 
 Fork the repository.
@@ -52,3 +53,5 @@ Create a new branch for your feature: git checkout -b feature-name
 Commit your changes: git commit -m 'Add some feature'
 Push to the branch: git push origin feature-name
 Submit a pull request.
+
+
