@@ -1,4 +1,4 @@
-# Zomato Clone
+ # Zomato Clone
 
 This project is a simple HTML/CSS-based clone of the Zomato website, created for educational purposes.
 
@@ -19,7 +19,7 @@ This project is a clone of the popular Zomato website, designed to showcase HTML
 
 You can see a live demo of the project [here](#https://broshan099.000webhostapp.com/).
 
-![Zomato Clone Screenshot](screenshot.png)
+![Zomato Clone Screenshot](screenshot (8).png)
 
 ## Features
 
